@@ -13,6 +13,9 @@ namespace GenericsIntro
             isimler.Add("Busra");
             Console.WriteLine(isimler.Length);
 
+            isimler.Add("Hatice");
+            isimler.Add("Mahmut");
+
             foreach (var isim in isimler.Items)
             {
                 Console.WriteLine(isim);
