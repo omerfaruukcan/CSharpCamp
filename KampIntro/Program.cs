@@ -12,7 +12,7 @@ namespace KampIntro
 
             string kategoriEtiketi = "Kategori";
             int ogrenciSayisi = 32000;
-            double faizOrani = 1.45;
+            double faizOrani = 1.46;
             bool sistemeGirisYapmisMi = true;
             double dolarDun = 15.35;
             double dolarBugun = 15.45;

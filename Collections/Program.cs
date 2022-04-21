@@ -20,11 +20,7 @@ namespace Collections
 
             //using System.Collections.Generic;
             List<string> isimler2 = new List<string>() { 
-                "Omer Faruk", 
-                "Busra", 
-                "Hatice", 
-                "Mahmut" 
-            };
+                "Omer Faruk", "Busra", "Hatice", "Mahmut" };
 
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[1]);
